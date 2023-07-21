@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Data science using C++
 - 💞️ I’m looking to collaborate on a few projects related to web development to contribute my skills in other's work, and boost up my skills
 - Languages I know are: HTML/CSS, javascript,C, C++,C#, JAVA, and Python
-- 📫 How to reach me ...
+- 📫 How to reach me.
+- syedjawaduddin087@gmail.com
 
 <!---
 SyedJawad23/SyedJawad23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
